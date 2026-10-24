@@ -15,7 +15,7 @@ int main(){
 	char display_formatting='l'; //Declare the arguments for the 'finger' command.
 	bool m=false;
 	bool p=false;
-	char users_string[]="pEpPo02 NeSsuno ciruzzo jacob";
+	char users_string[]="enZo Giorgio aurelio Renato";
 
 	struct Arguments *args=initialize_command_arguments(display_formatting, m, p, users_string); //Set the arguments for the 'finger' command to an 'Arguments' struct.
 
