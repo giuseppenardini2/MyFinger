@@ -7,7 +7,7 @@
 - [License](#license)
 
 ## About
-MyFinger is a program that emulates the behavior of the [`finger` command](https://linux.die.net/man/1/finger) in GNU/Linux.
+MyFinger is a program that emulates the behavior of the `finger` [command](https://linux.die.net/man/1/finger) in GNU/Linux.
 
 > [!WARNING]  
 > MyFinger is a university project focused on emulating the `finger` command.
